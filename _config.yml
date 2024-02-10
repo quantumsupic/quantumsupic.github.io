@@ -108,7 +108,9 @@ author:
   avatar           : /images/profile_photo.jpg
   bio              : "Quantum Information Scientist"
   location         : "Paris"
+  googlescholar    : "https://scholar.google.com/citations?hl=fr&user=rPJDaXwAAAAJ"
   email            :
+  twitter          : "https://twitter.com/quantumSupic"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

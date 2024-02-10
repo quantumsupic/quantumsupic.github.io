@@ -3,7 +3,6 @@ permalink: /
 layout: single
 title: About me
 author_profile: true
-redirect_from: /about.html
 ---
 
 I'm currently something something 

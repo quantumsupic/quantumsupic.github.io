@@ -1,7 +1,7 @@
 ---
 layout: archive 
 title: Conferences and workshops
-permaling: /talks/
+permalink: /talks/
 author_profile: true 
 --- 
 

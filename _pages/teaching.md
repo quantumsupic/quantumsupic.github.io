@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-#Supervision 
+# Supervision 
 - One
 - Two
 
-#Courses
+# Courses
 - One
 - Two
 

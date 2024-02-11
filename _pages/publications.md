@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-- H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* [arXiv:](arXiv:2308.12760) 2308.12760
-- Two
-- Three
+- H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* [arXiv:](https://arxiv.org/abs/2308.12760) 2308.12760
+- S. Neves, L. dos Santos Martins, V. Yacoub, P. Lefebvre, I. Šupić, D. Markham, E. Diamanti; *Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell's Theorem* [arXiv:](https://arxiv.org/abs/2304.09605) 2304.09605
 
 # Publications
 - I. Šupić, J.-D. Bancal, N. Brunner; *Quantum nonlocality in the presence of strong measurement dependence*  Physical Review A, 108, 042207

@@ -10,6 +10,6 @@ author_profile: true
 - Three
 
 # Publications
-- One
+- Ivan Šupić,Jean-Daniel Bancal, Nicolas Brunner; *Quantum nonlocality in the presence of strong measurement dependence*  Physical Review A, 108, 042207
 - Two
 - Three

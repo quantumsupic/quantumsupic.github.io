@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- One
+- H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* [arXiv:](arXiv:2308.12760) 2308.12760
 - Two
 - Three
 

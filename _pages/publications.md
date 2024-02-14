@@ -14,7 +14,12 @@ author_profile: true
         text-decoration: none;
     border-radius: 5px;
     text-align: center;margin-left:42px;margin-right:15px"> sveto </button>
-<button style="background-color:blue"> sveto </button>
+<button style="background-color: #eaf2f8;
+    border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:42px;margin-right:15px"> sveto </button>
+
 
 
 

@@ -13,7 +13,7 @@ author_profile: true
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;

@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+    
+- H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* arXiv:2308.12760
 <a
-      href="https://www.vijesti.me"
+      href="[https://www.vijesti.me](https://arxiv.org/abs/2308.12760)"
       style="
         padding: 10px 20px;
         background-color: #3498db;
@@ -21,7 +24,7 @@ author_profile: true
       onmouseover="this.style.backgroundColor='#2980b9'"
       onmouseout="this.style.backgroundColor='#3498db'"
     >
-      Dugme
+      ArXiv
     </a>
     <a
       href="https://www.vijesti.me"
@@ -41,13 +44,11 @@ author_profile: true
     >
       Dugme
     </a>
-    
-- H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* arXiv:2308.12760 <br> 
  <button style="background-color: #fef5e7;
     border: 2px solid #fad7a0; padding: 5px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2308.12760) </button> 
+    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv]() </button> 
 - S. Neves, L. dos Santos Martins, V. Yacoub, P. Lefebvre, I. Šupić, D. Markham, E. Diamanti; *Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell's Theorem* arXiv:2304.09605 <br>  
  <button style="background-color: #fef5e7;
     border: 2px solid #fad7a0; padding: 5px 14px; transition: background-color 0.3s ease;

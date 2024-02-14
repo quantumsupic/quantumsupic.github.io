@@ -33,7 +33,7 @@ author_profile: true
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -61,7 +61,7 @@ author_profile: true
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -79,7 +79,7 @@ author_profile: true
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -101,7 +101,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -119,7 +119,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -140,7 +140,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -158,7 +158,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -179,7 +179,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -197,7 +197,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -218,7 +218,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -236,7 +236,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -257,7 +257,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -275,7 +275,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -296,7 +296,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -314,7 +314,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -335,7 +335,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -353,7 +353,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -374,7 +374,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -392,7 +392,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -413,7 +413,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -431,7 +431,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -452,7 +452,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -470,7 +470,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -491,7 +491,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -509,7 +509,7 @@ A, 107, 062220.
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -531,7 +531,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -549,7 +549,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -570,7 +570,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -588,7 +588,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -609,7 +609,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -627,7 +627,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -648,7 +648,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -666,7 +666,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -688,7 +688,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -706,7 +706,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -727,7 +727,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -745,7 +745,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -766,7 +766,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -784,7 +784,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -805,7 +805,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -823,7 +823,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -844,7 +844,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -862,7 +862,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -883,7 +883,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -901,7 +901,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -922,7 +922,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -940,7 +940,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -961,7 +961,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -979,7 +979,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -1000,7 +1000,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -1018,7 +1018,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -1039,7 +1039,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: black;
+        color: #BA4A00;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -1057,7 +1057,7 @@ G. B. Xavier, A. Delgado, S. P. Walborn, D. Cavalcanti, G. Lima; *Multi-core fib
       style="
         padding: 10px 20px;
         background-color: #e8daef;
-        color: black;
+        color: #6C3483;
         border: none;
         border-radius: 2px;
         cursor: pointer;

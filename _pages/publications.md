@@ -16,6 +16,23 @@ author_profile: true
 <button style="background-color:blue"> sveto </button>
 
 
+<a
+      href="https://www.vijesti.me"
+      style="
+        padding: 10px 20px;
+        background-color: #3498db;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+        margin-left: 30px;
+      "
+      onmouseover="this.style.backgroundColor='#2980b9'"
+      onmouseout="this.style.backgroundColor='#3498db'"
+    >
+
 # Publications
 - I. Šupić, J.-D. Bancal, N. Brunner; *Quantum nonlocality in the presence of strong measurement dependence*  Physical Review A, 108, 042207
 - I. Šupić, N. Brunner; *Self-testing nonlocality without entanglement*,  Physical Review

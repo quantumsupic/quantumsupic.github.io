@@ -36,7 +36,7 @@ author_profile: true
 - *Quantifying teleportation and estimating entanglement from teleportation experiments*, Quantum Foundations and Quantum Information Workshop 2018, Natal (Brazil)
 
 <a
-      href="https://www.youtube.com/watch?v=e6COzyW1mxA&t=61s"
+      href="https://www.youtube.com/watch?v=e6COzyW1mxA"
       style="
         padding: 10px 20px;
         background-color: #d5f5e3;
@@ -79,7 +79,7 @@ author_profile: true
 - *Quantum networks self-test all entangled states*, Qcrypt, Taipei (Taiwan) 2022
 
 <a
-      href="https://www.youtube.com/watch?v=XujyH8OkpII&t=918s"
+      href="https://www.youtube.com/watch?v=XujyH8OkpII"
       style="
         padding: 10px 20px;
         background-color: #d5f5e3;
@@ -99,7 +99,7 @@ author_profile: true
 - *Quantum networks self-test all entangled states*, Recent advances in quantum computing, Paris (France) 2021
 
 <a
-      href="https://www.youtube.com/watch?v=LXHChXV2c6U&t=1309s"
+      href="https://www.youtube.com/watch?v=LXHChXV2c6U"
       style="
         padding: 10px 20px;
         background-color: #d5f5e3;
@@ -119,7 +119,7 @@ author_profile: true
 - *Device-independent certification of tensor products of quantum states using single-copy self-testing protocols*, CTP Quantum Information Days 2020(+1), Warsaw (Poland), 2021
 
 <a
-      href="https://www.youtube.com/watch?v=DIzkVvCblJk&t=1113s"
+      href="https://www.youtube.com/watch?v=DIzkVvCblJk"
       style="
         padding: 10px 20px;
         background-color: #d5f5e3;

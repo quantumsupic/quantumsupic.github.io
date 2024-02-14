@@ -28,12 +28,12 @@ author_profile: true
 
 # Publications
 - I. Šupić, J.-D. Bancal, N. Brunner; *Quantum nonlocality in the presence of strong measurement dependence*  Physical Review A, 108, 042207
-  
+   <br>
   <button style="background-color: #fef5e7;
     border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2209.02337) </button>
+    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2209.02337) </button>
 <button style="background-color: #eaf2f8;
     border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
@@ -41,24 +41,24 @@ author_profile: true
     text-align: center;margin-left:7px;margin-right:15px"> [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042207) </button>
 - I. Šupić, N. Brunner; *Self-testing nonlocality without entanglement*,  Physical Review
 A, 107, 062220.
-
+ <br>
  <button style="background-color: #fef5e7;
     border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2203.13171) </button>
+    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2203.13171) </button>
 <button style="background-color: #eaf2f8;
     border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
     text-align: center;margin-left:7px;margin-right:15px"> [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.062220) </button>
 - I. Šupić, J. Bowles, M.-O. Renou, A. Acin, M. Hoban; *Quantum networks self-test all entangled states* , Nature Physics, 1-6.
-
+ <br>
    <button style="background-color: #fef5e7;
     border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2201.05032) </button>
+    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2201.05032) </button>
 <button style="background-color: #eaf2f8;
     border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;

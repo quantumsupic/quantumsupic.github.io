@@ -55,17 +55,54 @@ author_profile: true
 
 # Publications
 - I. Šupić, J.-D. Bancal, N. Brunner; *Quantum nonlocality in the presence of strong measurement dependence*  Physical Review A, 108, 042207
+
+<a
+      href="https://arxiv.org/abs/2209.02337"
+      style="
+        padding: 10px 20px;
+        background-color: #fef5e7;
+        color: black;
+        border: none;
+        border-radius: 2px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+        margin-left: 30px;
+      "
+      onmouseover="this.style.backgroundColor='#eb984e'"
+      onmouseout="this.style.backgroundColor='#f5cba7'"
+    >
+      ArXiv
+ </a>
+    <a
+      href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042207"
+      style="
+        padding: 10px 20px;
+        background-color: #e8daef;
+        color: black;
+        border: none;
+        border-radius: 2px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+        margin-left: 10px;
+      "
+      onmouseover="this.style.backgroundColor='#bb8fce'"
+      onmouseout="this.style.backgroundColor='#d2b4de'"
+    >
+      Dugme
+    </a>
   <br>
   <button style="background-color: #fef5e7;
     border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2209.02337) </button>
+    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv]() </button>
 <button style="background-color: #eaf2f8;
     border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:7px;margin-right:15px"> [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042207) </button>
+    text-align: center;margin-left:7px;margin-right:15px"> [Journal]() </button>
 - I. Šupić, N. Brunner; *Self-testing nonlocality without entanglement*,  Physical Review
 A, 107, 062220.
 <br>

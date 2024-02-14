@@ -9,7 +9,7 @@ author_profile: true
     
 - H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* arXiv:2308.12760
 <a
-      href="[https://www.vijesti.me](https://arxiv.org/abs/2308.12760)"
+      href="https://arxiv.org/abs/2308.12760"
       style="
         padding: 10px 20px;
         background-color: #3498db;

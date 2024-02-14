@@ -28,10 +28,30 @@ author_profile: true
 
 # Contributed talks at conferences and workshops
 
-- *Quantum networks self-test all entangled states*, Quantum Information Processing QIP, Ghent (Belgium)  2023 [Video](https://www.youtube.com/watch?v=plQy6RZd3jw)
-- *Quantum networks self-test all entangled states*, Qcrypt, Taipei (Taiwan) 2022 [Video](https://www.youtube.com/watch?v=XujyH8OkpII&t=918s)
-- *Quantum networks self-test all entangled states*, Recent advances in quantum computing, Paris (France) 2021 [Video](https://www.youtube.com/watch?v=LXHChXV2c6U&t=1309s)
-- *Device-independent certification of tensor products of quantum states using single-copy self-testing protocols*, CTP Quantum Information Days 2020(+1), Warsaw (Poland), 2021 [Video](https://www.youtube.com/watch?v=DIzkVvCblJk&t=1113s)
+- *Quantum networks self-test all entangled states*, Quantum Information Processing QIP, Ghent (Belgium)  2023<br> 
+ <button style="background-color: #e8f8f5;
+    border: 2px solid #76d7c4; padding: 5px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:2px;margin-right:8px"> [Video](https://www.youtube.com/watch?v=plQy6RZd3jw) </button> 
+- *Quantum networks self-test all entangled states*, Qcrypt, Taipei (Taiwan) 2022<br> 
+ <button style="background-color: #e8f8f5;
+    border: 2px solid #76d7c4; padding: 5px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:2px;margin-right:8px"> [Video](https://www.youtube.com/watch?v=XujyH8OkpII&t=918s) </button> 
+- *Quantum networks self-test all entangled states*, Recent advances in quantum computing, Paris (France) 2021<br> 
+ <button style="background-color: #e8f8f5;
+    border: 2px solid #76d7c4; padding: 5px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:2px;margin-right:8px"> [Video](https://www.youtube.com/watch?v=LXHChXV2c6U&t=1309s) </button> 
+- *Device-independent certification of tensor products of quantum states using single-copy self-testing protocols*, CTP Quantum Information Days 2020(+1), Warsaw (Poland), 2021<br> 
+ <button style="background-color: #e8f8f5;
+    border: 2px solid #76d7c4; padding: 5px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:2px;margin-right:8px"> [Video](https://www.youtube.com/watch?v=DIzkVvCblJk&t=1113s) </button> 
 - *All sets of incompatible measurements give an advantage in quantum state discrimination*, Asian Quantum Information Science AQIS 2019, Seoul (South Korea), 2019
 - *All entangled states demonstrate non-classical teleportation*, VI Postgraduate Meeting on Theoretical Physics, Valencia (Spain) 2017  - *Self-testing multipartite quantum states*, XXXVI Reunion Bienal de la Real Sociedad Espanola de Fisica, Santiago de Compostela (Spain) 2017
 - *All entangled states demonstrate non-classical teleportation*, International Conference for Young Quantum Information Scientists, Erlangen (Germany), 2017  

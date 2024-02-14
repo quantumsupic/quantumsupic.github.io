@@ -21,6 +21,26 @@ author_profile: true
       onmouseover="this.style.backgroundColor='#2980b9'"
       onmouseout="this.style.backgroundColor='#3498db'"
     >
+      Dugme
+    </a>
+    <a
+      href="https://www.vijesti.me"
+      style="
+        padding: 10px 20px;
+        background-color: #3498db;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+        margin-left: 10px;
+      "
+      onmouseover="this.style.backgroundColor='#2980b9'"
+      onmouseout="this.style.backgroundColor='#3498db'"
+    >
+      Dugme
+    </a>
     
 - H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* arXiv:2308.12760 <br> 
  <button style="background-color: #fef5e7;

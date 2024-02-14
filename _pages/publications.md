@@ -8,13 +8,13 @@ author_profile: true
 
 - H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* arXiv:2308.12760
  <button style="background-color: #fef5e7;
-    border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
+    border: 2px solid #fad7a0; padding: 5px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
     text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2308.12760) </button> 
 - S. Neves, L. dos Santos Martins, V. Yacoub, P. Lefebvre, I. Šupić, D. Markham, E. Diamanti; *Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell's Theorem* arXiv:2304.09605
  <button style="background-color: #fef5e7;
-    border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
+    border: 2px solid #fad7a0; padding: 5px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
     text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2304.09605) </button> 
@@ -30,15 +30,33 @@ author_profile: true
     border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:42px;margin-right:8px"> ArXiv </button>
+    text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2209.02337) </button>
 <button style="background-color: #eaf2f8;
     border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:7px;margin-right:15px"> Journal </button>
+    text-align: center;margin-left:7px;margin-right:15px"> [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042207) </button>
 - I. Šupić, N. Brunner; *Self-testing nonlocality without entanglement*,  Physical Review
-A, 107, 062220.
-- I. Šupić, J. Bowles, M.-O. Renou, A. Acin, M. Hoban; *Quantum networks self-test all entangled states* , Nature Physics, 1-6.
+A, 107, 062220. <button style="background-color: #fef5e7;
+    border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2203.13171) </button>
+<button style="background-color: #eaf2f8;
+    border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:7px;margin-right:15px"> [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.062220) </button>
+- I. Šupić, J. Bowles, M.-O. Renou, A. Acin, M. Hoban; *Quantum networks self-test all entangled states* , Nature Physics, 1-6. <button style="background-color: #fef5e7;
+    border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2201.05032) </button>
+<button style="background-color: #eaf2f8;
+    border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:7px;margin-right:15px"> [Journal](https://www.nature.com/articles/s41567-023-01945-4) </button>
 - I. Šupić, J.-D, Bancal, Y. Cai, N, Brunner; *Genuine network quantum nonlocality and self-testing* , Physical Review A, 105, 022206.
 - H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Semi-device-independent certification of causal nonseparability with quantum inputs*, Physical Review Letters, 129, 090402.
 - A. Gočanin, I. Šupić, B. Dakić; *Sample-efficient device-independent quantum state verification and certification* , PRX Quantum 3, 010317.

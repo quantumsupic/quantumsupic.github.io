@@ -9,9 +9,10 @@ author_profile: true
 - H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* [arXiv:](https://arxiv.org/abs/2308.12760) 2308.12760
 - S. Neves, L. dos Santos Martins, V. Yacoub, P. Lefebvre, I. Šupić, D. Markham, E. Diamanti; *Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell's Theorem* [arXiv:](https://arxiv.org/abs/2304.09605) 2304.09605
 
-<button style="background-color: #fdfefe;
-    border: 2px solid #ccc;
-    border-radius: 8px;
+<button style="background-color: #fef5e7;
+    border: 2px solid #ccc; padding: 10px 20px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
     text-align: center;margin-left:42px;margin-right:15px"> sveto </button>
 <button style="background-color:blue"> sveto </button>
 

@@ -11,7 +11,7 @@ author_profile: true
     border: 2px solid #fad7a0; padding: 5px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2308.12760) </button> 
+    text-align: center;margin-left:2px;margin-right:8px"> ArXiv \href{https://arxiv.org/abs/2308.12760} </button> 
 - S. Neves, L. dos Santos Martins, V. Yacoub, P. Lefebvre, I. Šupić, D. Markham, E. Diamanti; *Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell's Theorem* arXiv:2304.09605 <br>  
  <button style="background-color: #fef5e7;
     border: 2px solid #fad7a0; padding: 5px 14px; transition: background-color 0.3s ease;

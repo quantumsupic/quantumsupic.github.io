@@ -90,19 +90,9 @@ author_profile: true
       onmouseover="this.style.backgroundColor='#bb8fce'"
       onmouseout="this.style.backgroundColor='#d2b4de'"
     >
-      Dugme
+      Journal
     </a>
-  <br>
-  <button style="background-color: #fef5e7;
-    border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
-        text-decoration: none;
-    border-radius: 5px;
-    text-align: center;margin-left:2px;margin-right:8px"> [ArXiv]() </button>
-<button style="background-color: #eaf2f8;
-    border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
-        text-decoration: none;
-    border-radius: 5px;
-    text-align: center;margin-left:7px;margin-right:15px"> [Journal]() </button>
+  
 - I. Šupić, N. Brunner; *Self-testing nonlocality without entanglement*,  Physical Review
 A, 107, 062220.
 <br>

@@ -10,29 +10,13 @@ author_profile: true
 - S. Neves, L. dos Santos Martins, V. Yacoub, P. Lefebvre, I. Šupić, D. Markham, E. Diamanti; *Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell's Theorem* [arXiv:](https://arxiv.org/abs/2304.09605) 2304.09605
 
 <button style="background-color: #fef5e7;
-    border: 2px solid #ccc; padding: 10px 20px; transition: background-color 0.3s ease;
+    border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
     text-align: center;margin-left:42px;margin-right:15px"> sveto </button>
 <button style="background-color:blue"> sveto </button>
 
 
-<a
-      href="https://www.vijesti.me"
-      style="
-        padding: 10px 20px;
-        background-color: #3498db;
-        color: white;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-        text-decoration: none;
-        margin-left: 30px;
-      "
-      onmouseover="this.style.backgroundColor='#2980b9'"
-      onmouseout="this.style.backgroundColor='#3498db'"
-    >
 
 # Publications
 - I. Šupić, J.-D. Bancal, N. Brunner; *Quantum nonlocality in the presence of strong measurement dependence*  Physical Review A, 108, 042207

@@ -29,7 +29,7 @@ author_profile: true
       onmouseover="this.style.backgroundColor='#58d68d'"
       onmouseout="this.style.backgroundColor='#abebc6'"
     >
-      ArXiv
+      Video
 
 - *Certification of Quantum Transmission via Bell's Theorem*, Annual Meeting of the DIM QuanTiP 2023, Villetaneuse (France)
 - Tutorial on *Quantum resources*, QICS Doctoral workshop in Quantum Information 2022, Lessay (France)

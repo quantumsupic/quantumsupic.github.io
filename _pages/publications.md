@@ -6,25 +6,36 @@ author_profile: true
 ---
 
 
-- H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* [arXiv:](https://arxiv.org/abs/2308.12760) 2308.12760
-- S. Neves, L. dos Santos Martins, V. Yacoub, P. Lefebvre, I. Šupić, D. Markham, E. Diamanti; *Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell's Theorem* [arXiv:](https://arxiv.org/abs/2304.09605) 2304.09605
-
-<button style="background-color: #fef5e7;
+- H. Dordent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* arXiv:2308.12760
+ <button style="background-color: #fef5e7;
     border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:42px;margin-right:8px"> sveto </button>
-<button style="background-color: #eaf2f8;
-    border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
+    text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2308.12760) </button> 
+- S. Neves, L. dos Santos Martins, V. Yacoub, P. Lefebvre, I. Šupić, D. Markham, E. Diamanti; *Experimentally Certified Transmission of a Quantum Message through an Untrusted and Lossy Quantum Channel via Bell's Theorem* arXiv:2304.09605
+ <button style="background-color: #fef5e7;
+    border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
         text-decoration: none;
     border-radius: 5px;
-    text-align: center;margin-left:7px;margin-right:15px"> sveto </button>
+    text-align: center;margin-left:42px;margin-right:8px"> [ArXiv](https://arxiv.org/abs/2304.09605) </button> 
+
+
 
 
 
 
 # Publications
 - I. Šupić, J.-D. Bancal, N. Brunner; *Quantum nonlocality in the presence of strong measurement dependence*  Physical Review A, 108, 042207
+  <button style="background-color: #fef5e7;
+    border: 2px solid #fad7a0; padding: 7px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:42px;margin-right:8px"> ArXiv </button>
+<button style="background-color: #eaf2f8;
+    border: 2px solid #c39bd3; padding: 7px 14px; transition: background-color 0.3s ease;
+        text-decoration: none;
+    border-radius: 5px;
+    text-align: center;margin-left:7px;margin-right:15px"> Journal </button>
 - I. Šupić, N. Brunner; *Self-testing nonlocality without entanglement*,  Physical Review
 A, 107, 062220.
 - I. Šupić, J. Bowles, M.-O. Renou, A. Acin, M. Hoban; *Quantum networks self-test all entangled states* , Nature Physics, 1-6.

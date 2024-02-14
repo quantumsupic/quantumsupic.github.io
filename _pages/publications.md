@@ -13,7 +13,7 @@ author_profile: true
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
-        color: white;
+        color: black;
         border: none;
         border-radius: 2px;
         cursor: pointer;
@@ -21,8 +21,8 @@ author_profile: true
         text-decoration: none;
         margin-left: 30px;
       "
-      onmouseover="this.style.backgroundColor='#2980b9'"
-      onmouseout="this.style.backgroundColor='#3498db'"
+      onmouseover="this.style.backgroundColor='#eb984e'"
+      onmouseout="this.style.backgroundColor='#f5cba7'"
     >
       ArXiv
    

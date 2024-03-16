@@ -4,7 +4,24 @@ title: Preprints
 permalink: /publications/
 author_profile: true
 ---
-
+- M. Baroni, Q.-H. Vu, B. Bourdoncle, E. Diamanti, D. Markham, I Šupić; *Quantum bounds for compiled XOR games and d-outcome CHSH games* arXiv:2403.05502
+  <a
+      href="https://arxiv.org/abs/2403.05502"
+      style="
+        padding: 10px 20px;
+        background-color: #fef5e7;
+        color: #BA4A00;
+        border: none;
+        border-radius: 2px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+        margin-left: 30px;
+      "
+      onmouseover="this.style.backgroundColor='#eb984e'"
+      onmouseout="this.style.backgroundColor='#f5cba7'"
+    >
+      ArXiv
     
 - H. Dourdent, A. Abbott, N. Brunner, I. Šupić, C. Branciard; *Network-Device-Independent Certification of Causal Nonseparability* arXiv:2308.12760
   

@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 - M. Baroni, Q.-H. Vu, B. Bourdoncle, E. Diamanti, D. Markham, I Šupić; *Quantum bounds for compiled XOR games and d-outcome CHSH games* arXiv:2403.05502
-  <a
-      href="https://arxiv.org/abs/2403.05502"
+
+  
+<a  href="https://arxiv.org/abs/2403.05502"
       style="
         padding: 10px 20px;
         background-color: #fef5e7;

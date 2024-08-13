@@ -6,7 +6,7 @@ author_profile: true
 --- 
 
 # Invited talks at conferences and workshops
-
+- *Computational certificates of quantumness*, MATH+ Workshop Quantum Cryptography and Quantum Networks, Berlin (Germany)
 - *All pure multipartite entangled states of qubits can be self-tested*, Japanese-French Quantum Information 2023 workshop, Tokyo (Japan)
  - *Sample-efficient device-independent quantum state verification and certification*, Quantum certification conference, Warsaw (Poland)
  - *Black box certification of resources for photonic quantum technologies*, IX International School and Conference on Photonics, Belgrade (Serbia)

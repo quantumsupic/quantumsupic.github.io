@@ -4,6 +4,25 @@ title: Preprints
 permalink: /publications/
 author_profile: true
 ---
+- L. dos Santos Martins, N. Laurent-Puig, I Šupić, D. Markham, E. Diamanti; *Experimental Sample-Efficient and Device-Independent GHZ State Certification* arXiv:2407.13529
+
+<a  href="https://arxiv.org/abs/2407.13529"
+      style="
+        padding: 10px 20px;
+        background-color: #fef5e7;
+        color: #BA4A00;
+        border: none;
+        border-radius: 2px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+        margin-left: 30px;
+      "
+      onmouseover="this.style.backgroundColor='#eb984e'"
+      onmouseout="this.style.backgroundColor='#f5cba7'"
+    >
+      ArXiv
+
 - M. Baroni, Q.-H. Vu, B. Bourdoncle, E. Diamanti, D. Markham, I Šupić; *Quantum bounds for compiled XOR games and d-outcome CHSH games* arXiv:2403.05502
 
   

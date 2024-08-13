@@ -4,8 +4,7 @@ title: Preprints
 permalink: /publications/
 author_profile: true
 ---
-- L. dos Santos Martins, N. Laurent-Puig,   I Šupić, D. Markham,  E. Diamanti; *Experimental Sample-Efficient and Device-Independent GHZ State Certification
-* arXiv:2407.13529
+- L. dos Santos Martins, N. Laurent-Puig,   I Šupić, D. Markham,  E. Diamanti; *Experimental Sample-Efficient and Device-Independent GHZ State Certification* arXiv:2407.13529
 
   
 <a  href="https://arxiv.org/abs/2407.13529"

@@ -4,6 +4,47 @@ title: Preprints
 permalink: /publications/
 author_profile: true
 ---
+
+- U. I. Meyer,  I Šupić,  F. Grosshans, D. Markham; *Self-Testing Graph States Permitting Bounded Classical Communication* arXiv:2404.03496
+
+  
+<a  href="https://arxiv.org/abs/2404.03496"
+      style="
+        padding: 10px 20px;
+        background-color: #fef5e7;
+        color: #BA4A00;
+        border: none;
+        border-radius: 2px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+        margin-left: 30px;
+      "
+      onmouseover="this.style.backgroundColor='#eb984e'"
+      onmouseout="this.style.backgroundColor='#f5cba7'"
+    >
+      ArXiv
+
+- U. I. Meyer,  I Šupić, D. Markham,  F. Grosshans; *Bell Nonlocality from Wigner Negativity in Qudit Systems* arXiv:2405.14367
+
+  
+<a  href="https://arxiv.org/abs/2405.14367"
+      style="
+        padding: 10px 20px;
+        background-color: #fef5e7;
+        color: #BA4A00;
+        border: none;
+        border-radius: 2px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+        margin-left: 30px;
+      "
+      onmouseover="this.style.backgroundColor='#eb984e'"
+      onmouseout="this.style.backgroundColor='#f5cba7'"
+    >
+      ArXiv
+
 - L. dos Santos Martins, N. Laurent-Puig,   I Šupić, D. Markham,  E. Diamanti; *Experimental Sample-Efficient and Device-Independent GHZ State Certification* arXiv:2407.13529
 
   

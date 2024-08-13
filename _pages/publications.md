@@ -4,11 +4,10 @@ title: Preprints
 permalink: /publications/
 author_profile: true
 ---
-
-- U. I. Meyer,  I Šupić,  F. Grosshans, D. Markham; *Self-Testing Graph States Permitting Bounded Classical Communication* arXiv:2404.03496
+- L. dos Santos Martins, N. Laurent-Puig,   I Šupić, D. Markham,  E. Diamanti; *Experimental Sample-Efficient and Device-Independent GHZ State Certification* arXiv:2407.13529
 
   
-<a  href="https://arxiv.org/abs/2404.03496"
+<a  href="https://arxiv.org/abs/2407.13529"
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
@@ -24,6 +23,7 @@ author_profile: true
       onmouseout="this.style.backgroundColor='#f5cba7'"
     >
       ArXiv
+
 
 - U. I. Meyer,  I Šupić, D. Markham,  F. Grosshans; *Bell Nonlocality from Wigner Negativity in Qudit Systems* arXiv:2405.14367
 
@@ -44,11 +44,10 @@ author_profile: true
       onmouseout="this.style.backgroundColor='#f5cba7'"
     >
       ArXiv
-
-- L. dos Santos Martins, N. Laurent-Puig,   I Šupić, D. Markham,  E. Diamanti; *Experimental Sample-Efficient and Device-Independent GHZ State Certification* arXiv:2407.13529
+- U. I. Meyer,  I Šupić,  F. Grosshans, D. Markham; *Self-Testing Graph States Permitting Bounded Classical Communication* arXiv:2404.03496
 
   
-<a  href="https://arxiv.org/abs/2407.13529"
+<a  href="https://arxiv.org/abs/2404.03496"
       style="
         padding: 10px 20px;
         background-color: #fef5e7;
@@ -64,6 +63,7 @@ author_profile: true
       onmouseout="this.style.backgroundColor='#f5cba7'"
     >
       ArXiv
+
 
 
 - M. Baroni, Q.-H. Vu, B. Bourdoncle, E. Diamanti, D. Markham, I Šupić; *Quantum bounds for compiled XOR games and d-outcome CHSH games* arXiv:2403.05502

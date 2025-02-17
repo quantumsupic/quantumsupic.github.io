@@ -6,6 +6,7 @@ author_profile: true
 --- 
 
 # Invited talks at conferences and workshops
+- *Nonlocality-driven certification without locality requirements*, 24th Asian Quantum Information Science Conference AQIS20224, Sapporo (Japan)
 - *Computational certificates of quantumness*, MATH+ Workshop Quantum Cryptography and Quantum Networks, Berlin (Germany)
 - *All pure multipartite entangled states of qubits can be self-tested*, Japanese-French Quantum Information 2023 workshop, Tokyo (Japan)
  - *Sample-efficient device-independent quantum state verification and certification*, Quantum certification conference, Warsaw (Poland)

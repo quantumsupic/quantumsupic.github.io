@@ -110,7 +110,7 @@ author:
   location         : "Paris"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=rPJDaXwAAAAJ"
   email            :
-  twitter          : "quantumSupic"
+  bluesky          : "quantumsupic.bsky.social"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

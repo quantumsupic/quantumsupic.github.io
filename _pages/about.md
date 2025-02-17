@@ -4,7 +4,7 @@ layout: single
 title: About me
 author_profile: true
 ---
-I am quantum information scientist from Montenegro, living and working in Paris. Currently I am a postdoctoral researcher in [LIP6](https://qi.lip6.fr) in Sorbonne University.
+I am quantum information scientist from Montenegro, living and working in University Grenoble-Alpes as CNRS permanent researcher. 
 
 
 # Research interests 

@@ -4,7 +4,7 @@ layout: single
 title: About me
 author_profile: true
 ---
-I am quantum information scientist from Montenegro, working at the University Grenoble-Alpes as CNRS permanent researcher. 
+I am quantum information scientist from Montenegro, working at the University Grenoble-Alpes as a CNRS permanent researcher. 
 
 
 # Research interests 

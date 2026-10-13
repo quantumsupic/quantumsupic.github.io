@@ -93,6 +93,7 @@ author_profile: true
 
 - **Self-testing in quantum information theory**
   <span class="talk-details">Invited tutorial · CEQIP 2026 · Mikulov, Czech Republic · September 2026</span>
+  <span class="talk-links"><a href="/assets/Ceqip_2026.pdf">Slides ↗</a></span>
 
 - **Self-testing in quantum cryptography**
   <span class="talk-details">Invited tutorial · QCrypt 2026 · Ottawa, Canada · August 2026</span>

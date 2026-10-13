@@ -98,24 +98,30 @@ author_profile: true
 - **Self-testing in quantum cryptography**
   <span class="talk-details">Invited tutorial · QCrypt 2026 · Ottawa, Canada · August 2026</span>
   <span class="talk-links"><a href="https://www.youtube.com/watch?v=6msWLhfZ9vU" aria-label="Watch Self-testing in quantum cryptography at QCrypt 2026">▶ Video</a> · <a href="/assets/qcrypt-2026.pdf">Slides ↗</a></span>
-
+  
 - **Compiled nonlocal games**
   <span class="talk-details"><a href="https://www.lorentzcenter.nl/nonlocality-driver-for-quantum-advantage.html">Nonlocality: Driver for Quantum Advantage?</a> · Lorentz Center · Leiden, Netherlands · March 2026</span>
+  <span class="talk-links"><a href="/assets/Leiden_2026.pdf">Slides ↗</a></span>
 
 - **Nonlocality-driven certification without locality requirements**
   <span class="talk-details">24th Asian Quantum Information Science Conference (AQIS 2024) · Sapporo, Japan · August 2024</span>
+  <span class="talk-links"><a href="/assets/AQIS_Supic.pdf">Slides ↗</a></span>
 
 - **Computational certificates of quantumness**
   <span class="talk-details">MATH+ Workshop on Quantum Cryptography and Quantum Networks · Berlin, Germany · May 2024</span>
+  <span class="talk-links"><a href="/assets/Berlin.pdf">Slides ↗</a></span>
 
 - **All pure multipartite entangled states of qubits can be self-tested**
   <span class="talk-details">Japanese-French Quantum Information 2023 Workshop · Tokyo, Japan · December 2023</span>
+  <span class="talk-links"><a href="/assets/TokyoSupic.pdf">Slides ↗</a></span>
 
 - **Sample-efficient device-independent quantum state verification and certification**
   <span class="talk-details">Quantum Certification Conference · Warsaw, Poland · November 2023</span>
+  <span class="talk-links"><a href="/assets/Quacc_Ivan.pdf">Slides ↗</a></span>
 
 - **Black box certification of resources for photonic quantum technologies**
   <span class="talk-details">IX International School and Conference on Photonics · Belgrade, Serbia · August 2023</span>
+  <span class="talk-links"><a href="/assets/Photonica.pdf">Slides ↗</a></span>
 
 - **Device-independent certification of quantum resources**
   <span class="talk-details">4th International Conference on Quantum Information and Quantum Technology · Kolkata, India · June 2023</span>

@@ -152,7 +152,7 @@ author_profile: true
 
 - **Quantum networks self-test all entangled states**
   <span class="talk-details">Quantum Information Processing (QIP 2023) · Ghent, Belgium · February 2023</span>
-  <span class="talk-links"><a href="https://www.youtube.com/watch?v=plQy6RZd3jw" aria-label="Watch Quantum networks self-test all entangled states at QIP 2023">▶ Video</a></span>
+    <span class="talk-links"><a href="[VIDEO_URL](https://www.youtube.com/watch?v=plQy6RZd3jw)">▶ Video</a> · <a href="/assets/QIP_Supic.pdf">Slides ↗</a></span>
 
 - **Quantum networks self-test all entangled states**
   <span class="talk-details">QCrypt 2022 · Taipei, Taiwan · 2022</span>

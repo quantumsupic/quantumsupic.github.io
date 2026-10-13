@@ -6,6 +6,9 @@ author_profile: true
 --- 
 
 # Invited talks at conferences and workshops
+- *Self-testing in quantum information theory*, invited tutorial, CEQIP 2026, Mikulov (Czech Republic), September 2026.
+- *Self-testing in quantum cryptography*, invited tutorial, QCrypt 2026, Ottawa (Canada), August 2026.
+-  *Compiled nonlocal games*, [Nonlocality: Driver for Quantum Advantage?](https://www.lorentzcenter.nl/nonlocality-driver-for-quantum-advantage.html), Lorentz Center, Leiden (Netherlands), March 2026.
 - *Nonlocality-driven certification without locality requirements*, 24th Asian Quantum Information Science Conference AQIS20224, Sapporo (Japan)
 - *Computational certificates of quantumness*, MATH+ Workshop Quantum Cryptography and Quantum Networks, Berlin (Germany)
 - *All pure multipartite entangled states of qubits can be self-tested*, Japanese-French Quantum Information 2023 workshop, Tokyo (Japan)
@@ -56,7 +59,8 @@ author_profile: true
  
 
 # Contributed talks at conferences and workshops
-
+- *All pure multipartite entangled states can be self-tested*, Quantum Information Processing (QIP 2026), Riga (Latvia), February 2026.
+- *All pure multipartite entangled states of qubits can be self-tested*, 22nd International Conference on Quantum Physics and Logic (QPL 2025), Varna (Bulgaria), July 2025.q
 - *Quantum networks self-test all entangled states*, Quantum Information Processing QIP, Ghent (Belgium)  2023
 
 <a

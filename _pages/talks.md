@@ -148,6 +148,7 @@ author_profile: true
 
 - **All pure multipartite entangled states of qubits can be self-tested**
   <span class="talk-details">22nd International Conference on Quantum Physics and Logic (QPL 2025) · Varna, Bulgaria · July 2025</span>
+  <span class="talk-links"><a href="/assets/QPL25.pdf">Slides ↗</a></span>
 
 - **Quantum networks self-test all entangled states**
   <span class="talk-details">Quantum Information Processing (QIP 2023) · Ghent, Belgium · February 2023</span>

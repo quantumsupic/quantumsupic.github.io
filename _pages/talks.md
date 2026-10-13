@@ -144,6 +144,7 @@ author_profile: true
 
 - **All pure multipartite entangled states can be self-tested**
   <span class="talk-details">Quantum Information Processing (QIP 2026) · Riga, Latvia · February 2026</span>
+  <span class="talk-links"><a href="/assets/QIP2026 Supic.pdf">Slides ↗</a></span>
 
 - **All pure multipartite entangled states of qubits can be self-tested**
   <span class="talk-details">22nd International Conference on Quantum Physics and Logic (QPL 2025) · Varna, Bulgaria · July 2025</span>

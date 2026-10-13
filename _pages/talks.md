@@ -96,6 +96,7 @@ author_profile: true
 
 - **Self-testing in quantum cryptography**
   <span class="talk-details">Invited tutorial · QCrypt 2026 · Ottawa, Canada · August 2026</span>
+  <span class="talk-links"><a href="https://www.youtube.com/watch?v=6msWLhfZ9vU" aria-label="Watch Self-testing in quantum cryptography at QCrypt 2026">▶ Video</a> · <a href="/assets/qcrypt-2026.pdf">Slides ↗</a></span>
 
 - **Compiled nonlocal games**
   <span class="talk-details"><a href="https://www.lorentzcenter.nl/nonlocality-driver-for-quantum-advantage.html">Nonlocality: Driver for Quantum Advantage?</a> · Lorentz Center · Leiden, Netherlands · March 2026</span>
